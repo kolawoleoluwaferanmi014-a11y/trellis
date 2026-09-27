@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/issue-456-dispute-resolution-supports-only-all-or-nothing",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-456-dispute-resolution-supports-only-all-or-nothing": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/issue-456-dispute-resolution-supports-only-all-or-nothing",
+    "origin"
+  ]
+}
